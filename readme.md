@@ -1,5 +1,7 @@
 # TESTING PROJECT
 
+This project contains basic sh scrpits.
+
 ## PROJECT INFO
 
 **NAME**: TESTING
